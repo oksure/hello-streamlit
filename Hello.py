@@ -26,7 +26,7 @@ def run():
 
     st.write("# :balloon: Welcome to My Streamlit! 👋")
 
-    st.sidebar.success("Select a demo above.")
+    st.sidebar.success("Select a demo above. Day 2")
 
     st.markdown(
         """
